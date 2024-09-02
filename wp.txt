@@ -1,0 +1,43 @@
+uname: omidlmazaheri
+pw: HjCO74aReWhAFkUP1j
+lKKprPurzOzem4rwrm
+!75ZhpdlPJ*m#dAG4OGWaj9G
+-----------------------
+databasename: wmdb
+username: root
+password:-
+------woodmart-----
+username: admin
+password: 123456789
+-----------
+database name: omidlmir_db
+database username: omidlmir_admin
+database password: !~EQk=yMCe;7
+site username: admin_qw63p4w1
+site password: t@srF5wytG02ZNr$
+email: admin@omidlm.ir
+google-site-verification=0a0KmB3wCgAMY0N_5B7Hx4yu4H-RYvM3qu05ZW1rpHI
+irnic: ol67-irnic
+password: omid@0225
+pe134-irnic
+ns464.phtco.com
+ns465.phtco.com
+---------------------------------
+net afzar
+user name: omidlmir
+password: 0s-CFs:YzlC006
+irnic: ne346-irnic
+
+--------------------------------
+omidlm.ir netafzar
+
+Name servers:
+irns1.netafraz.com
+irns2.netafraz.com
+
+databasename: omidlmir_db
+username: omidlmir_admin
+password: d&YuuTTHUXj)np*6
+website:
+username:
+password:
