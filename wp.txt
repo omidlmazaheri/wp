@@ -39,5 +39,21 @@ databasename: omidlmir_db
 username: omidlmir_admin
 password: d&YuuTTHUXj)np*6
 website:
-username:
-password:
+username: visha
+password: oD0@#4wA
+username: vishaweb.net
+password: d^yCP56#
+username: omidlak
+password: *AOsgYORt2gcRNTBY*HdpDDn
+email:
+iam@omidlm.ir
+password: Omid@0225
+panel:
+username: omidlmir
+password: 0s-CFs:YzlC006
+---------------------------------
+omidlak.ir
+panel:
+username: omidlaki
+password: )bsJ[08YiW85Al
+https://cp132.netafraz.com:2223
