@@ -57,3 +57,14 @@ panel:
 username: omidlaki
 password: )bsJ[08YiW85Al
 https://cp132.netafraz.com:2223
+-------------------
+omidlak.ir
+database name:omidlaki_db
+database user:omidlaki_admin
+database password: Omid@123
+wordpress:
+uasername: omidlak-admin
+password: omid@0225
+updraft:
+omidlmco@gmail.com
+password: omid@0225
